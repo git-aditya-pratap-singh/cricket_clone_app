@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cricket_clone_app/static/css/main.bf19f577.css",
+    "main.js": "/cricket_clone_app/static/js/main.eb96423c.js",
+    "static/media/bc.png": "/cricket_clone_app/static/media/bc.f1ab88d65d6a68bc8b22.png",
+    "static/media/bd.png": "/cricket_clone_app/static/media/bd.b734792560d899dba95b.png",
+    "static/media/logo.png": "/cricket_clone_app/static/media/logo.a1e47d95fd007ab94e0b.png",
+    "index.html": "/cricket_clone_app/index.html",
+    "main.bf19f577.css.map": "/cricket_clone_app/static/css/main.bf19f577.css.map",
+    "main.eb96423c.js.map": "/cricket_clone_app/static/js/main.eb96423c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf19f577.css",
+    "static/js/main.eb96423c.js"
+  ]
+}
